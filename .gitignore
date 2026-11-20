@@ -1,0 +1,21 @@
+# KHÔNG đưa lên Git: tài nguyên có bản quyền và rất nặng
+references/
+source/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# File tạm
+*.log
+*.tmp
